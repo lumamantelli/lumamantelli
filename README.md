@@ -44,6 +44,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/lumamantelli/lumamantelli/output/snake.svg" alt="Snake animation" />
+
 
 ###
