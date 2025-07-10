@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Luma and I'm a Frontend Developer, from Brazil.</h2>
+<h2 align="center">Hi 👋! My name is Luma and I'm a Frontend Developer, from Brazil.</h2>
 
 ###
 
@@ -28,6 +28,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+   <img width="12" />
+  <img src=" <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />" height="30" alt="vscode logo"  />
+  
+
 </div>
 
 ###
