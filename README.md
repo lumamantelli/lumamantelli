@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Luma and I'm a Frontend Developer, from Brazil.</h2>
+<h2 align="center">Hi 👋! My name is Luma and I'm a Fullstack Developer, from Brazil.</h2>
 
 ###
 
