@@ -21,7 +21,7 @@
 
 - 🔭 Atualmente desenvolvendo projetos com **Next.js**, **NestJS** e **TypeScript**.
 - 🛠️ Focada em boas práticas, arquitetura limpa e ecossistema Node.js/Docker.
-- ⚡ Curiosidade: [Adicione algo legal sobre você ou seus hobbies aqui].
+
 
 <br />
 
